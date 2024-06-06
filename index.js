@@ -10,6 +10,7 @@ var resultDisplay = document.querySelector("h1");
 
 document.querySelector("#dice-button").addEventListener("click" , rollDice)
 
+     // Roll Dice Function
 function rollDice(event){
 
     randomNumber1 = Math.floor(Math.random() * 6) + 1;

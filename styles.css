@@ -53,6 +53,14 @@ img {
   width: 80%;
 }
 
+
+.btn{
+background-color: red;
+color: white;
+font-family: "trispace" , cursive;
+
+
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;

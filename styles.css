@@ -41,6 +41,7 @@ h1 {
   text-shadow: 5px 0 #282157;
   font-size: 8rem;
   color:#081448;
+  white-space: nowrap;
 }
 
 p {

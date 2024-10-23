@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cf2927b.css",
-    "main.js": "/static/js/main.ab1a8588.js",
-    "static/media/Player2dice6.png": "/static/media/Player2dice6.ea2671d43ddf4c71ccc7.png",
-    "static/media/Player2dice5.png": "/static/media/Player2dice5.ebd81c78301a8665a9c6.png",
-    "static/media/Player2dice3.png": "/static/media/Player2dice3.8ffb5f7dfcb415f1bd98.png",
-    "static/media/dice6.png": "/static/media/dice6.7cf32d264ecda807354e.png",
-    "static/media/dice5.png": "/static/media/dice5.d9d50ed80ca5162ebe40.png",
-    "static/media/Player2dice4.png": "/static/media/Player2dice4.b2562f76e2a1e5db621f.png",
-    "static/media/dice3.png": "/static/media/dice3.f492cb02bad5a5573014.png",
-    "static/media/Player2dice2.png": "/static/media/Player2dice2.397cc3ca467a9342b0a0.png",
-    "static/media/dice4.png": "/static/media/dice4.011f8bdcfe3cb6913e17.png",
-    "static/media/dice2.png": "/static/media/dice2.f6592657dd8adbde7ad4.png",
-    "static/media/Player2dice1.png": "/static/media/Player2dice1.f017e51f9a7757e0f9f7.png",
-    "static/media/dice1.png": "/static/media/dice1.1c99d1cf248d65f801f5.png",
-    "index.html": "/index.html",
-    "main.9cf2927b.css.map": "/static/css/main.9cf2927b.css.map",
-    "main.ab1a8588.js.map": "/static/js/main.ab1a8588.js.map"
+    "main.css": "/Dice-Game/static/css/main.9cf2927b.css",
+    "main.js": "/Dice-Game/static/js/main.1f2c9800.js",
+    "static/media/Player2dice6.png": "/Dice-Game/static/media/Player2dice6.ea2671d43ddf4c71ccc7.png",
+    "static/media/Player2dice5.png": "/Dice-Game/static/media/Player2dice5.ebd81c78301a8665a9c6.png",
+    "static/media/Player2dice3.png": "/Dice-Game/static/media/Player2dice3.8ffb5f7dfcb415f1bd98.png",
+    "static/media/dice6.png": "/Dice-Game/static/media/dice6.7cf32d264ecda807354e.png",
+    "static/media/dice5.png": "/Dice-Game/static/media/dice5.d9d50ed80ca5162ebe40.png",
+    "static/media/Player2dice4.png": "/Dice-Game/static/media/Player2dice4.b2562f76e2a1e5db621f.png",
+    "static/media/dice3.png": "/Dice-Game/static/media/dice3.f492cb02bad5a5573014.png",
+    "static/media/Player2dice2.png": "/Dice-Game/static/media/Player2dice2.397cc3ca467a9342b0a0.png",
+    "static/media/dice4.png": "/Dice-Game/static/media/dice4.011f8bdcfe3cb6913e17.png",
+    "static/media/dice2.png": "/Dice-Game/static/media/dice2.f6592657dd8adbde7ad4.png",
+    "static/media/Player2dice1.png": "/Dice-Game/static/media/Player2dice1.f017e51f9a7757e0f9f7.png",
+    "static/media/dice1.png": "/Dice-Game/static/media/dice1.1c99d1cf248d65f801f5.png",
+    "index.html": "/Dice-Game/index.html",
+    "main.9cf2927b.css.map": "/Dice-Game/static/css/main.9cf2927b.css.map",
+    "main.1f2c9800.js.map": "/Dice-Game/static/js/main.1f2c9800.js.map"
   },
   "entrypoints": [
     "static/css/main.9cf2927b.css",
-    "static/js/main.ab1a8588.js"
+    "static/js/main.1f2c9800.js"
   ]
 }
